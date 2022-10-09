@@ -1,17 +1,26 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: <strong><font size = "+2">Politehnica University | Bucharest </font></strong>
+  from: <i>2020</i>
+  to: <i>present</i>
+  description: <i><font size = "+1">Electronics, Telecommunications and Informational Technology</font></i> <br><br>
+               <font size = "+1">Activities and achievements</font> <br>
+                        Grade 2 scholarship, Student Advisor <br>
+               <font size = "+1">Relevant courses</font> <br>
+                        <a href="https://wiki.dcae.pub.ro/index.php/Circuite_Integrate_Digitale" target="_blank">Digital Integrated Circuits</a>, 
+               Microprocessor Architecture, Verilog, OrCad, MatLab, OOP, Data 
+                        Structures, C++
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title:  <strong><font size = "+2">“Alexandru Vlahuta” National College | Râmnicu Sărat, Buzău </font></strong>
+  from: <i>2016</i>
+  to: <i>2020</i>
+  description: <i><font size = "+1">Mathematics and intensive computer science</font></i> <br><br>
+               <font size = "+1">Activities and achievements</font> <br>
+                        <a href="..\assets\certifications\NatiePrinEducatie.pdf" target="_blank">Robotics</a>, Debate,
+               <a href="..\assets\certifications\Adeverinta Mentor Sanitari.pdf" target="_blank">Mentoring</a>,
+               National Baccalaureate Exam - 9.70 <br>
+               <font size = "+1">Relevant courses</font> <br>
+                        <a href="..\assets\certifications\Oracle Database Design.pdf" target="_blank">Oracle Database Design</a>,
+               <a href="..\assets\certifications\Oracle Database Programming.pdf" target="_blank">Oracle Database Programming</a>,
+              Microsoft Office, HTML
+
+# tab space here:    
+# href: <a href="link" target="_blank">text</a>
