@@ -5,16 +5,35 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **{{ site.author.name }} George** :wave: <br> 
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Driven and enthusiastic engineering student with an interest in technology, history and nonsensical quotes.
+Loved building robots & creating connections in the [First Tech Challenge](https://natieprineducatie.ro/) competition.
+Writing technical documentation, thinking modular and team management are fun. Breaking stuff is even more fun.
+
+---
+
+## Volunteering
+
+* <h4> <bold> Electronics Students League | Bucharest </bold> </h4> > *2020 - present* \| Board Member
+  - coordinated multiple volunteers at different events
+  - took part in the organization of different projects: Mock Exam, Faculty presentations, Admission Exam
+  - improved my teamworking and communication abilities
+* <h4> <bold> "Sanitarii priceputi" | Ramnicu Sarat </bold> </h4> > *Apr 2020 - Jun 2020* \| Mentor
+  - a
+
+---
+
+## Education
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+    {% include about/timeline.html %}
 </div>
 
+<!---
 <div class="row">
-{% include about/timeline.html %}
+    {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+    {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+    {% include about/skills.html title="Engineering Skills" source=site.data.engineering-skills %}
 </div>
+--->
